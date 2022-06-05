@@ -1,0 +1,36 @@
+*{text-transform:capitalize;}
+body {background-color: #ececec; display: inline-block;}
+button {   border: #eeeded 0px solid; background-color: #eeeded;  }
+a { text-decoration: none; color: black;}
+/* sale */
+.sale {      width: 100%; height:60px;      }
+/* search */
+.we {   width: 400px; height: 40px; font-size: 21px;   }
+.ww {    width: 60px; background-color: rgb(238, 156, 5); height: 40px;     }
+.qw {   font-size: 16px; color: whitesmoke;   }
+/* banner */
+.banner {   background-color: white; border: #ececec 2px solid;
+background-color: #ececec; margin: 2px; margin-top: 10px; margin-bottom: -5px;    }
+.table { background-color: #ececec ;}
+.home {  width: 50px;    }
+#market {width: 100px;}
+#mobile { width: 120px;}
+#games { padding-right: -10px; }
+#market , #mobile , #ss , #tvs , #electronics , #home-kitchen , #appllances , #health ,
+#mom , #toy , #games{    padding: auto; text-align: center;
+     margin: 3px; margin: auto; background-color: #ececec;    }
+     /* main */
+
+.oil {   width: 230px; height: 300px; border: wheat 2px solid;
+     padding: -5px; background-color: white; margin-left: 30px; margin-bottom: 10px;  }
+#il {width: 220px;  }
+.coffe {   width: 230px; height: 300px; border: wheat 2px solid;
+    padding: -5px; background-color: white; margin-left: 3px; margin-bottom: 10px;   }
+#ff {width: 220px;  }
+.cleaner {   width: 230px; height: 300px; border: wheat 2px solid;
+    padding: -5px; background-color: white; margin-left: 3px; margin-bottom: 10px;   }
+#er {width: 220px;  }
+.fairy {   width: 230px; height: 300px; border: wheat 2px solid;
+    padding: -5px; background-color: white; margin-left: 3px; margin-bottom: 10px;   }
+#ry {width: 220px;  } 
+.btn :hover { background-color: #ececec; color: rgb(238, 156, 5) ;}
